@@ -1,3 +1,5 @@
+//Вместо хранения номера контейнера в unordered_map, мы будем хранить указатель на контейнер, чтобы учесть новое ограничение
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
